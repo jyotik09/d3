@@ -4,69 +4,69 @@
 		"name": "16428501",
 		"depends": ["79370611", "84113031", "81618511"],
 		"dependedOnBy": ["79370611", "84113031", "81618511"],
-		"docs": "<h2>sub group 900557</h2>\n\n<ul style=\"list-style-type:none;\">\n<li>Name: ABC PYT LTD</li>\n<li>Name: ABC PYT LTD</li>\n\n</ul>"
+		"docs": "<h2>ACN: 16428501 - APR PTY LTD</h2>\n\n<ul style=\"list-style-type:none;\">\n<li>Sub Group : 900557</li>\n<li>Number of Directors: 1</li>\n<li>Director Interest: 100</li>\n<li>Financial Year: 2014</li>\n\n</ul>"
 	},
 	"79370611": {
 		"type": "LOCAL",
 		"name": "79370611",
 		"depends": ["84113031", "46885721","16428501"],
 		"dependedOnBy": ["84113031", "46885721","16428501"],
-		"docs": "<h2>sub group 900557</h2>"
+		"docs": "<h2>ACN: 79370611 - QWE PTY LTD</h2>\n\n<ul style=\"list-style-type:none;\">\n<li>Sub Group : 900557</li>\n<li>Number of Directors: 1</li>\n<li>Director Interest: 100</li>\n<li>Financial Year: 2014</li>\n\n</ul>"
     },
 	"84113031": {
 		"type": "LOCAL",
 		"name": "84113031",
 		"depends": ["16428501","79370611"],
 		"dependedOnBy": ["16428501","79370611"],
-		"docs": "<h2>sub group 900557</h2>"
+		"docs": "<h2>ACN: 84113031 - ABC PTY LTD</h2>\n\n<ul style=\"list-style-type:none;\">\n<li>Sub Group : 900557</li>\n<li>Number of Directors: 1</li>\n<li>Director Interest: 100</li>\n<li>Financial Year: 2014</li>\n\n</ul>"
 	},
 	"46885721": {
 		"type": "PASSIVE",
 		"name": "46885721",
 		"depends": ["79370611"],
 		"dependedOnBy": ["79370611"],
-		"docs": "<h2>sub group 900557</h2>"
+		"docs": "<h2>ACN: 46885721 - XYZ PTY LTD</h2>\n\n<ul style=\"list-style-type:none;\">\n<li>Sub Group : 900557</li>\n<li>Number of Directors: 1</li>\n<li>Director Interest: 100</li>\n<li>Financial Year: 2014</li>\n\n</ul>"
 	},
 	"81618511": {
 		"type": "SOCIAL",
 		"name": "81618511",
 		"depends": ["16428501", "5597297", "06428501", "11231221", "18308821", "95428501"],
 		"dependedOnBy": ["16428501", "5597297", "06428501", "11231221", "18308821", "95428501"],
-		"docs": "<h2>sub group 552520</h2>"
+		"docs": "<h2>ACN: 81618511 - ATB PTY LTD</h2>\n\n<ul style=\"list-style-type:none;\">\n<li>Sub Group : 552520</li>\n<li>Number of Directors: 1</li>\n<li>Director Interest: 100</li>\n<li>Financial Year: 2014</li>\n\n</ul>"
 	},
 	"5597297": {
 		"type": "SOCIAL",
 		"name": "5597297",
 		"depends": ["81618511", "06428501", "18308821", "95428501", "11231221"],
 		"dependedOnBy": ["81618511", "06428501", "18308821", "95428501", "11231221"],
-		"docs": "<h2>sub group 552520</h2>"
+		"docs": "<h2>ACN: 5597297 - HJK PTY LTD</h2>\n\n<ul style=\"list-style-type:none;\">\n<li>Sub Group : 552520</li>\n<li>Number of Directors: 1</li>\n<li>Director Interest: 100</li>\n<li>Financial Year: 2014</li>\n\n</ul>"
 	},
 	"06428501": {
 		"type": "SOCIAL",
 		"name": "06428501",
 		"depends": ["81618511", "5597297", "18308821", "95428501", "11231221"],
 		"dependedOnBy": ["81618511", "5597297", "18308821", "95428501", "11231221"],
-		"docs": "<h2>sub group 552520</h2>"
+		"docs": "<h2>ACN: 06428501 - ATB PTY LTD</h2>\n\n<ul style=\"list-style-type:none;\">\n<li>Sub Group : 552520</li>\n<li>Number of Directors: 1</li>\n<li>Director Interest: 100</li>\n<li>Financial Year: 2014</li>\n\n</ul>"
 	},
 	"95428501": {
 		"type": "SOCIAL",
 		"name": "95428501",
 		"depends": ["81618511", "5597297", "18308821", "06428501", "11231221"],
 		"dependedOnBy": ["81618511", "5597297", "18308821", "06428501", "11231221"],
-		"docs": "<h2>sub group 843937</h2>"
+		"docs": "<h2>ACN: 95428501 - BGH PTY LTD</h2>\n\n<ul style=\"list-style-type:none;\">\n<li>Sub Group : 843937</li>\n<li>Number of Directors: 2</li>\n<li>Director Interest: 50</li>\n<li>Financial Year: 2014</li>\n\n</ul>"
 	},
 	"11231221": {
 		"type": "LOCAL",
 		"name": "11231221",
 		"depends": ["81618511", "5597297", "18308821", "06428501", "95428501"],
 		"dependedOnBy": ["81618511", "5597297", "18308821", "06428501", "95428501"],
-		"docs": "<h2>sub group 843937</h2>"
+		"docs": "<h2>ACN: 11231221 - GMN PTY LTD</h2>\n\n<ul style=\"list-style-type:none;\">\n<li>Sub Group : 843937</li>\n<li>Number of Directors: 2</li>\n<li>Director Interest: 50</li>\n<li>Financial Year: 2014</li>\n\n</ul>"
 	},
 	"18308821": {
 		"type": "SOCIAL",
 		"name": "18308821",
 		"depends": ["81618511", "5597297", "11231221", "06428501", "95428501"],
 		"dependedOnBy": ["81618511", "5597297", "11231221", "06428501", "95428501"],
-		"docs": "<h2>sub group 843937</h2>"
+		"docs": "<h2>ACN: 18308821 - DEF PTY LTD</h2>\n\n<ul style=\"list-style-type:none;\">\n<li>Sub Group : 843937</li>\n<li>Number of Directors: 2</li>\n<li>Director Interest: 50</li>\n<li>Financial Year: 2014</li>\n\n</ul>"
 	}
 }
