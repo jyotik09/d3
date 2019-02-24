@@ -4,7 +4,7 @@
 		"name": "16428501",
 		"depends": ["79370611", "84113031", "81618511"],
 		"dependedOnBy": ["79370611", "84113031", "81618511"],
-		"docs": "<h2>sub group 900557</h2>"
+		"docs": "<h2>sub group 900557</h2>\n\n<ul style=\"list-style-type:none;\">\n<li>Name: ABC PYT LTD</li>\n<li>Name: ABC PYT LTD</li>\n\n</ul>"
 	},
 	"79370611": {
 		"type": "LOCAL",
