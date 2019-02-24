@@ -16,7 +16,7 @@
 	"84113031": {
 		"type": "LOCAL",
 		"name": "84113031",
-		"depends": [],
+		"depends": ["79370611"],
 		"dependedOnBy": ["16428501"],
 		"docs": "<h2>sub group 900557</h2>"
 	},
