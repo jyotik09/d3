@@ -1,0 +1,23 @@
+{
+	"16428501": {
+		"type": "SOCIAL",
+		"name": "16428501",
+		"depends": ["79370611", "84113031", "81618511"],
+		"dependedOnBy": [],
+		"docs": "<h2>sub group 900557</h2>"
+	},
+	"79370611": {
+		"type": "LOCAL",
+		"name": "79370611",
+		"depends": ["84113031", "46885721"],
+		"dependedOnBy": ["16428501"],
+		"docs": "<h2>sub group 900557</h2>"
+	},
+	"84113031": {
+		"type": "LOCAL",
+		"name": "84113031",
+		"depends": [],
+		"dependedOnBy": ["16428501"],
+		"docs": "<h2>sub group 900557</h2>"
+	}
+}
