@@ -19,5 +19,12 @@
 		"depends": [],
 		"dependedOnBy": ["16428501"],
 		"docs": "<h2>sub group 900557</h2>"
+	},
+	"46885721": {
+		"type": "PASSIVE",
+		"name": "46885721",
+		"depends": [],
+		"dependedOnBy": ["79370611"],
+		"docs": "<h2>sub group 900557</h2>"
 	}
 }
